@@ -6,6 +6,10 @@ Using the BREAD builder you can easily create Relationships between tables. At t
 
 ![](../.gitbook/assets/bread_relationship.png)
 
+The input type must be **"Select Dropdown"** in relationship fields.
+![image](https://user-images.githubusercontent.com/6561770/128691726-27d934ca-4b27-4265-ae44-d71fbfb755cd.png)
+
+
 {% hint style="info" %}
 **Notice**  
 If you have not yet created the BREAD for the table yet, it will need to be created first and then you can come back after creating the BREAD to add the relationship. Otherwise you'll end up with a notification which looks like the following.
